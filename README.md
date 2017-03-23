@@ -3,11 +3,6 @@ Intended for rapid development of npm modules with webpack and hot reloading.
 
 Example server based largely on react-isomorphic
 
-## Getting Started
-**This will get you all setup and running 🚀**
-```
-```
-
 ### Run Dev - Run hot reloading node server
 ```
 $ npm start
